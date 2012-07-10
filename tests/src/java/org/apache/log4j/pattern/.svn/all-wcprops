@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/pattern
+END
+Num343PatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/pattern/Num343PatternConverter.java
+END
+CachedDateFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/pattern/CachedDateFormatTest.java
+END
+FormattingInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/pattern/FormattingInfoTest.java
+END
+NameAbbreviatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/pattern/NameAbbreviatorTest.java
+END
+PatternParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/pattern/PatternParserTest.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util
+END
+SerializationTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/SerializationTestHelper.java
+END
+EnhancedLineNumberFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/EnhancedLineNumberFilter.java
+END
+XMLLineAttributeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/XMLLineAttributeFilter.java
+END
+SunReflectFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/SunReflectFilter.java
+END
+JunitTestRunnerFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/JunitTestRunnerFilter.java
+END
+UnexpectedFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/UnexpectedFormatException.java
+END
+Compare.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/Compare.java
+END
+AbsoluteTimeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/AbsoluteTimeFilter.java
+END
+ISO8601Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/ISO8601Filter.java
+END
+Transformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/Transformer.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/Filter.java
+END
+AbsoluteDateAndTimeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/AbsoluteDateAndTimeFilter.java
+END
+XMLTimestampFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/XMLTimestampFilter.java
+END
+LineNumberFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/LineNumberFilter.java
+END
+ControlFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/ControlFilter.java
+END
+EnhancedJunitTestRunnerFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/EnhancedJunitTestRunnerFilter.java
+END
+RelativeTimeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/util/RelativeTimeFilter.java
+END

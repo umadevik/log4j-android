@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/net
+END
+SyslogAppenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/net/SyslogAppenderTest.java
+END
+SMTPAppenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/net/SMTPAppenderTest.java
+END
+SocketAppenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/net/SocketAppenderTest.java
+END
+TelnetAppenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/net/TelnetAppenderTest.java
+END
+SocketServerTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/net/SocketServerTestCase.java
+END
+ShortSocketServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/net/ShortSocketServer.java
+END

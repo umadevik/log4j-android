@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/xml
+END
+XLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/xml/XLevel.java
+END
+CustomLevelTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/xml/CustomLevelTestCase.java
+END
+DOMTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/xml/DOMTestCase.java
+END
+XMLLayoutTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/xml/XMLLayoutTestCase.java
+END
+XMLLayoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/xml/XMLLayoutTest.java
+END

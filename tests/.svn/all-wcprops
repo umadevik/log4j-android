@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests
+END
+build.properties.sample
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/build.properties.sample
+END
+run-tests.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/run-tests.bat
+END
+sun_checks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/sun_checks.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/build.xml
+END
+log4j-coding-convention.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/log4j-coding-convention.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/README
+END

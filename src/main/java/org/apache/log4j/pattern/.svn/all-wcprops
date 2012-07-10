@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern
+END
+PatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/PatternConverter.java
+END
+PatternParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/PatternParser.java
+END
+IntegerPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/IntegerPatternConverter.java
+END
+LoggingEventPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/LoggingEventPatternConverter.java
+END
+RelativeTimePatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/RelativeTimePatternConverter.java
+END
+CachedDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/CachedDateFormat.java
+END
+MethodLocationPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/MethodLocationPatternConverter.java
+END
+BridgePatternParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/BridgePatternParser.java
+END
+PropertiesPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/PropertiesPatternConverter.java
+END
+LineSeparatorPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/LineSeparatorPatternConverter.java
+END
+FileLocationPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/FileLocationPatternConverter.java
+END
+LoggerPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/LoggerPatternConverter.java
+END
+LiteralPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/LiteralPatternConverter.java
+END
+DatePatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/DatePatternConverter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/package.html
+END
+NDCPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/NDCPatternConverter.java
+END
+ThrowableInformationPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/ThrowableInformationPatternConverter.java
+END
+NamePatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/NamePatternConverter.java
+END
+FileDatePatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/FileDatePatternConverter.java
+END
+SequenceNumberPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/SequenceNumberPatternConverter.java
+END
+ThreadPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/ThreadPatternConverter.java
+END
+LineLocationPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/LineLocationPatternConverter.java
+END
+BridgePatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/BridgePatternConverter.java
+END
+MessagePatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/MessagePatternConverter.java
+END
+LogEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/LogEvent.java
+END
+FullLocationPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/FullLocationPatternConverter.java
+END
+LevelPatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/LevelPatternConverter.java
+END
+FormattingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/FormattingInfo.java
+END
+ClassNamePatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/ClassNamePatternConverter.java
+END
+NameAbbreviator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/pattern/NameAbbreviator.java
+END

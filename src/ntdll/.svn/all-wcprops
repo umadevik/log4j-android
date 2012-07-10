@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/ntdll
+END
+nteventlog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/ntdll/nteventlog.cpp
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/ntdll/build.xml
+END
+NTEventLogAppender.rc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/ntdll/NTEventLogAppender.rc
+END
+MSG00001.bin
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/ntdll/MSG00001.bin
+END
+NTEventLogAppender.def
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/ntdll/NTEventLogAppender.def
+END
+EventLogCategories.mc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/ntdll/EventLogCategories.mc
+END

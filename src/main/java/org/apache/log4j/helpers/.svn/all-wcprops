@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers
+END
+PatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/PatternConverter.java
+END
+SyslogQuietWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/SyslogQuietWriter.java
+END
+PatternParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/PatternParser.java
+END
+OnlyOnceErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/OnlyOnceErrorHandler.java
+END
+Transform.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/Transform.java
+END
+OptionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/OptionConverter.java
+END
+SyslogWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/SyslogWriter.java
+END
+FileWatchdog.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/FileWatchdog.java
+END
+AbsoluteTimeDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/AbsoluteTimeDateFormat.java
+END
+ISO8601DateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/ISO8601DateFormat.java
+END
+BoundedFIFO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/BoundedFIFO.java
+END
+QuietWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/QuietWriter.java
+END
+AppenderAttachableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/AppenderAttachableImpl.java
+END
+DateTimeDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/DateTimeDateFormat.java
+END
+NullEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/NullEnumeration.java
+END
+LogLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/LogLog.java
+END
+RelativeTimeDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/RelativeTimeDateFormat.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/package.html
+END
+ThreadLocalMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/ThreadLocalMap.java
+END
+CyclicBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/CyclicBuffer.java
+END
+DateLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/DateLayout.java
+END
+MDCKeySetExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/MDCKeySetExtractor.java
+END
+CountingQuietWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/CountingQuietWriter.java
+END
+Loader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/Loader.java
+END
+FormattingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/helpers/FormattingInfo.java
+END

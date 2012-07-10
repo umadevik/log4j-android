@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/Logger.java
+END
+MarkerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/MarkerFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/package.html
+END
+MDC.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/MDC.java
+END
+Marker.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/Marker.java
+END
+LoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/LoggerFactory.java
+END
+IMarkerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/IMarkerFactory.java
+END
+ILoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/ILoggerFactory.java
+END

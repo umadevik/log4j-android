@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer
+END
+LogFactor5InputDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/LogFactor5InputDialog.java
+END
+LogTableColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/LogTableColumn.java
+END
+LogTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/LogTableModel.java
+END
+LF5SwingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/LF5SwingUtils.java
+END
+LogFactor5ErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/LogFactor5ErrorDialog.java
+END
+LogBrokerMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/LogBrokerMonitor.java
+END
+LogFactor5Dialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/LogFactor5Dialog.java
+END
+LogTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/LogTable.java
+END
+LogTableColumnFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/LogTableColumnFormatException.java
+END
+TrackingAdjustmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/TrackingAdjustmentListener.java
+END
+FilteredLogTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/FilteredLogTableModel.java
+END
+LogTableRowRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/LogTableRowRenderer.java
+END
+LogFactor5LoadingDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/LogFactor5LoadingDialog.java
+END

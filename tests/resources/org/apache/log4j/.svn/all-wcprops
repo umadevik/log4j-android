@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/resources/org/apache/log4j
+END
+TestLogMFPatterns.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/resources/org/apache/log4j/TestLogMFPatterns.properties
+END
+TestLogSFPatterns.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/resources/org/apache/log4j/TestLogSFPatterns.properties
+END

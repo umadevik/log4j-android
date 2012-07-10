@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j
+END
+CategoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/CategoryTest.java
+END
+VectorAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/VectorAppender.java
+END
+HTMLLayoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/HTMLLayoutTest.java
+END
+VectorErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/VectorErrorHandler.java
+END
+MyPatternParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/MyPatternParser.java
+END
+LogCapture.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/LogCapture.java
+END
+EnhancedThrowableRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/EnhancedThrowableRendererTest.java
+END
+stressCategory
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/stressCategory
+END
+PropertyConfiguratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/PropertyConfiguratorTest.java
+END
+PatternLayoutTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/PatternLayoutTestCase.java
+END
+LayoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/LayoutTest.java
+END
+LogManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/LogManagerTest.java
+END
+MDCOrderFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/MDCOrderFilter.java
+END
+stressCategory.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/stressCategory.pl
+END
+Last.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/Last.java
+END
+PriorityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/PriorityTest.java
+END
+DefaultThrowableRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/DefaultThrowableRendererTest.java
+END
+StressCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/StressCategory.java
+END
+LoggerTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/LoggerTestCase.java
+END
+MinimumTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/MinimumTestCase.java
+END
+RFATestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/RFATestCase.java
+END
+MyPatternLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/MyPatternLayout.java
+END
+PatternLayoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/PatternLayoutTest.java
+END
+DRFATestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/DRFATestCase.java
+END
+TestLogMF.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/TestLogMF.java
+END
+CoreTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/CoreTestSuite.java
+END
+EnhancedPatternLayoutTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/EnhancedPatternLayoutTestCase.java
+END
+TestLogSF.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/TestLogSF.java
+END
+AsyncAppenderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/AsyncAppenderTestCase.java
+END
+TestLogXF.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/TestLogXF.java
+END
+TTCCLayoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/TTCCLayoutTest.java
+END
+EnhancedMyPatternLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/EnhancedMyPatternLayout.java
+END
+HierarchyThresholdTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/HierarchyThresholdTestCase.java
+END
+LevelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/LevelTest.java
+END
+EnhancedPatternLayoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/EnhancedPatternLayoutTest.java
+END
+FileAppenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/FileAppenderTest.java
+END

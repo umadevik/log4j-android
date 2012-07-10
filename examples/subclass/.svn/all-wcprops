@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/examples/subclass
+END
+MyLoggerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/examples/subclass/MyLoggerTest.java
+END
+MyLoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/examples/subclass/MyLoggerFactory.java
+END
+MyLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/examples/subclass/MyLogger.java
+END

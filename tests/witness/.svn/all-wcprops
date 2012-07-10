@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness
+END
+dom.A2.1
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/dom.A2.1
+END
+hierarchyThreshold.8
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/hierarchyThreshold.8
+END
+dom.A1.4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/dom.A1.4
+END
+dom.A2.4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/dom.A2.4
+END
+fallback1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/fallback1
+END
+customLevel.1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/customLevel.1
+END
+customLevel.2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/customLevel.2
+END
+customLevel.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/customLevel.3
+END
+customLevel.4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/customLevel.4
+END
+socketServer.1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/socketServer.1
+END
+socketServer.2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/socketServer.2
+END
+socketServer.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/socketServer.3
+END
+patternLayout.mdc.1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.mdc.1
+END
+socketServer.4
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/socketServer.4
+END
+PatternParser_mdc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/PatternParser_mdc
+END
+socketServer.5
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/socketServer.5
+END
+patternLayout.1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.1
+END
+socketServer.6
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/socketServer.6
+END
+patternLayout.2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.2
+END
+socketServer.7
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/socketServer.7
+END
+patternLayout.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.3
+END
+socketServer.8
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/socketServer.8
+END
+ttcc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/ttcc
+END
+patternLayout.4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.4
+END
+patternLayout.5
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.5
+END
+patternLayout.6
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.6
+END
+xmlLayout.mdc.1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/xmlLayout.mdc.1
+END
+patternLayout.7
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.7
+END
+xmlLayout.mdc.2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/xmlLayout.mdc.2
+END
+patternLayout.8
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.8
+END
+xmlLayout.1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/xmlLayout.1
+END
+customLogger.1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/customLogger.1
+END
+patternLayout.9
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.9
+END
+xmlLayout.2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/xmlLayout.2
+END
+customLogger.2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/customLogger.2
+END
+xmlLayout.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/xmlLayout.3
+END
+LevelMatchFilter_accept
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/LevelMatchFilter_accept
+END
+simple
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/simple
+END
+LevelMatchFilter_deny
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/LevelMatchFilter_deny
+END
+patternLayout.10
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.10
+END
+patternLayout.11
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.11
+END
+xmlLayout.null
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/xmlLayout.null
+END
+patternLayout.12
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.12
+END
+patternLayout.13
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.13
+END
+patternLayout.14
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.14
+END
+patternLayout.mdc.clear
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/patternLayout.mdc.clear
+END
+hierarchyThreshold.1
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/hierarchyThreshold.1
+END
+prudent
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/prudent
+END
+hierarchyThreshold.2
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/hierarchyThreshold.2
+END
+hierarchyThreshold.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/hierarchyThreshold.3
+END
+hierarchyThreshold.4
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/hierarchyThreshold.4
+END
+drfa_blockedRollover.log
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/drfa_blockedRollover.log
+END
+hierarchyThreshold.5
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/hierarchyThreshold.5
+END
+hierarchyThreshold.6
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/hierarchyThreshold.6
+END
+hierarchyThreshold.7
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/hierarchyThreshold.7
+END
+dom.A1.1
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/dom.A1.1
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/performance/java/org/apache/log4j/performance
+END
+NewVsSetLen.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/performance/java/org/apache/log4j/performance/NewVsSetLen.java
+END
+ListVsVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/performance/java/org/apache/log4j/performance/ListVsVector.java
+END
+NullAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/performance/java/org/apache/log4j/performance/NullAppender.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/performance/java/org/apache/log4j/performance/package.html
+END
+SystemTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/performance/java/org/apache/log4j/performance/SystemTime.java
+END
+NOPWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/performance/java/org/apache/log4j/performance/NOPWriter.java
+END
+logging
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/performance/java/org/apache/log4j/performance/logging
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/jdbc
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/jdbc/package.html
+END
+JDBCAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/jdbc/JDBCAppender.java
+END

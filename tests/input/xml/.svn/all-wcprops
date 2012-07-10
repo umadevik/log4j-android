@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml
+END
+loggerfactory1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/loggerfactory1.xml
+END
+testReset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/testReset.xml
+END
+customLevel1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/customLevel1.xml
+END
+customLevel2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/customLevel2.xml
+END
+customLevel3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/customLevel3.xml
+END
+DOMTest4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/DOMTest4.xml
+END
+customLevel4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/customLevel4.xml
+END
+categoryfactory1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/categoryfactory1.xml
+END
+categoryfactory2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/categoryfactory2.xml
+END
+DOMTestCase1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/DOMTestCase1.xml
+END
+SocketAppenderTestConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/SocketAppenderTestConfig.xml
+END
+throwableRenderer1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/throwableRenderer1.xml
+END
+fallback1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/fallback1.xml
+END
+DOMTest4_A1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/DOMTest4_A1.xml
+END
+DOMTest4_A2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/DOMTest4_A2.xml
+END
+customLogger1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/customLogger1.xml
+END
+customLogger2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/customLogger2.xml
+END
+defaultInit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/defaultInit.xml
+END
+customLogger3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/customLogger3.xml
+END
+smtpAppender1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/input/xml/smtpAppender1.xml
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/varia
+END
+NullAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/varia/NullAppender.java
+END
+DenyAllFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/varia/DenyAllFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/varia/package.html
+END
+StringMatchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/varia/StringMatchFilter.java
+END
+Roller.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/varia/Roller.java
+END
+LevelMatchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/varia/LevelMatchFilter.java
+END
+ExternallyRolledFileAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/varia/ExternallyRolledFileAppender.java
+END
+FallbackErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/varia/FallbackErrorHandler.java
+END
+ReloadingPropertyConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/varia/ReloadingPropertyConfigurator.java
+END
+LevelRangeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/varia/LevelRangeFilter.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/spi
+END
+ThrowableInformationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/spi/ThrowableInformationTest.java
+END
+LoggingEventTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/spi/LoggingEventTest.java
+END
+LocationInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/src/java/org/apache/log4j/spi/LocationInfoTest.java
+END

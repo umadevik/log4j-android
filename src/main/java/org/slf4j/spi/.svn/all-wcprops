@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/spi
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/spi/package.html
+END
+MarkerFactoryBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/spi/MarkerFactoryBinder.java
+END
+LocationAwareLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/spi/LocationAwareLogger.java
+END
+LoggerFactoryBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/spi/LoggerFactoryBinder.java
+END
+MDCAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/spi/MDCAdapter.java
+END

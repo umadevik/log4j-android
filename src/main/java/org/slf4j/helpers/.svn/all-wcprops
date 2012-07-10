@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers
+END
+SubstituteLoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/SubstituteLoggerFactory.java
+END
+NOPLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/NOPLogger.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/package.html
+END
+NOPLoggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/NOPLoggerFactory.java
+END
+NamedLoggerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/NamedLoggerBase.java
+END
+MarkerIgnoringBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/MarkerIgnoringBase.java
+END
+BasicMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/BasicMarker.java
+END
+FormattingTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/FormattingTuple.java
+END
+MessageFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/MessageFormatter.java
+END
+NOPMDCAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/NOPMDCAdapter.java
+END
+BasicMarkerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/BasicMarkerFactory.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/Util.java
+END
+BasicMDCAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/log4j-android/!svn/ver/6/trunk/slf4j-with-log4j/src/main/java/org/slf4j/helpers/BasicMDCAdapter.java
+END

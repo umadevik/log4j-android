@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer
+END
+CategoryNodeEditorRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/CategoryNodeEditorRenderer.java
+END
+CategoryImmediateEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/CategoryImmediateEditor.java
+END
+CategoryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/CategoryNode.java
+END
+CategoryExplorerLogRecordFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/CategoryExplorerLogRecordFilter.java
+END
+CategoryAbstractCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/CategoryAbstractCellEditor.java
+END
+CategoryElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/CategoryElement.java
+END
+CategoryNodeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/CategoryNodeEditor.java
+END
+CategoryExplorerModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/CategoryExplorerModel.java
+END
+CategoryExplorerTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/CategoryExplorerTree.java
+END
+TreeModelAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/TreeModelAdapter.java
+END
+CategoryNodeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/CategoryNodeRenderer.java
+END
+CategoryPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/CategoryPath.java
+END

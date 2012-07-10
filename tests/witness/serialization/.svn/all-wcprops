@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/serialization
+END
+mdc.bin
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/serialization/mdc.bin
+END
+ndc.bin
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/serialization/ndc.bin
+END
+info.bin
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/serialization/info.bin
+END
+exception.bin
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/serialization/exception.bin
+END
+simple.bin
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/serialization/simple.bin
+END
+location.bin
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/log4j-android/!svn/ver/5/trunk/log4j/tests/witness/serialization/location.bin
+END
